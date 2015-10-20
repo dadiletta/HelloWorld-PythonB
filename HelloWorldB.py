@@ -7,3 +7,4 @@ for i in range(400):
     if i % 20 == 0:
         t.write(str(i), font=("Arial",12,"normal"))
 d = input()
+
