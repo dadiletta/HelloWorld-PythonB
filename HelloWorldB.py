@@ -1,6 +1,6 @@
 import turtle
 screen = turtle.Screen()
-screen.title('Square Demo')
+screen.title('Turtle Demo')
 t = turtle.Turtle()
 for i in range(400):
     t.goto(i,i)
